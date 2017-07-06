@@ -1,0 +1,12 @@
+Package: slotMachine
+Type: Package
+Title: Plays Slot Machine 
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Gustavo Bruges <rcientificos@gmail.com>
+Description: Plays slot machine score functions.
+    Functions based on Garret Gromelund's Book Hands on Programming with R.
+License: GPL2+MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
